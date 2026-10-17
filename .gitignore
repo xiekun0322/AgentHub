@@ -1,0 +1,19 @@
+# 编译产物
+*.class
+target/
+build/
+bin/
+out/
+
+# Eclipse 配置
+.settings/
+.project
+.classpath
+
+# IDEA 配置
+.idea/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
